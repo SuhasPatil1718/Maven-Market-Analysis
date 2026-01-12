@@ -18,7 +18,6 @@ The project leverages data from various sources including sales records and cust
    - A relational database model was constructed to organize the integrated data.
    - Tables were created for customers, products, sales transactions, and inventory.
    - Relationships between tables were established.
-![Databasemodel](https://github.com/zshafique25/Maven-market-analysis/blob/master/databasemodel.PNG)
 
 3. **Adding Calculated Fields**:
    - Additional fields were calculated to derive meaningful insights using Data Analysis Expressions (DAX).
@@ -32,21 +31,23 @@ The project leverages data from various sources including sales records and cust
 ## Report
 
 1. **Topline Performance**:  
-   ![Topline Performance](https://github.com/zshafique25/Maven-market-analysis/blob/master/Toplineperformance.PNG)
+   ![Topline Performance](https://github.com/SuhasPatil1718/Maven-Market-Analysis/blob/main/Toplineperformance.png.png)
 
    - Provides a comprehensive overview of Maven Market's performance metrics for the current month.
    - Displays key indicators such as profit, transactions, and returns, alongside customer demographics and order distribution.
    - Highlights the top 30 brands for inventory restocking, tracks weekly revenue trends, and compares actual revenue to targets.
 
 2. **Drillthrough Product Details**:  
-   ![Drillthrough Product Details](https://github.com/zshafique25/Maven-market-analysis/blob/master/Productdetails.PNG)
+   ![Drillthrough Product Details](https://github.com/SuhasPatil1718/Maven-Market-Analysis/blob/main/Productdetails.png.png
+)
 
    - Offers a detailed view of product sales trends, targets, and pricing dynamics.
    - The product metrics selection slicer allows customization based on specific metrics.
    - The price range slicer enables toggling between different price ranges to identify optimal pricing strategies.
 
 3. **Customer Details**:  
-   ![Customer Details](https://github.com/zshafique25/Maven-market-analysis/blob/master/customerdetails.PNG)
+   ![Customer Details](https://github.com/SuhasPatil1718/Maven-Market-Analysis/blob/main/Customerdetails.png.png
+)
 
    - Provides insights into customer demographics, purchasing behavior, and loyalty patterns.
    - Customer segmentation based on location, occupation, and yearly income to tailor marketing strategies.
